@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="house" unicode="&#58967;" d="M953.7 309.3l-437.1 520.9h-9.1l-437.2-520.9 30.6-25.7 51 60.8v-406.6h720v406.6l51-60.8 30.8 25.7zM832-22.2h-640v414.3l320 381.4 320-381.4v-414.3zM632 197.8v-220h-240v220h240M672 237.8h-320v-300h320v300zM632 275.7v-38h-240v38h240M672 315.7h-320v-118h320v118zM846.7 762.5v-271l-40 46.2v184.8h-160l-34.6 40h234.6zM562 481.5h-100v40h100v-40z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

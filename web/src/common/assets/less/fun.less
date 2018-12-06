@@ -1,0 +1,36 @@
+//宽高函数
+.width-height(@width:100%;@height:100%){
+    width: @width;
+    height: @height;
+}
+
+//行高函数
+.line-height(@height){
+    height: @height;
+    line-height: @height;
+}
+
+//上下外边距函数
+.m-top-bottom(@top:10px;@bottom:10px){
+    margin-top: @top;
+    margin-bottom: @bottom;
+}
+
+//内边距函数
+.padding(@padding:30px){
+    padding: @padding;
+}
+
+//清浮动函数
+.clear{
+    display: block;
+    content: '';
+    clear: both;
+}
+
+//溢出部分显示省略号函数
+.overflow{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

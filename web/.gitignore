@@ -1,0 +1,7 @@
+node_modules
+dist/**/*.js.map
+dist/**/*.d.ts
+.vscode
+.idea
+
+dist/**
