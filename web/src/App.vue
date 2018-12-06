@@ -144,6 +144,9 @@ export default class Admin extends Vue {
 //     }
 // }
 @media screen and (min-width: 300px) {
+    html,body{
+        height: 110%;
+    }
    .LogoImg img{
        margin-left:15%;
        width: 80%;
