@@ -6,6 +6,7 @@ import CastleUi from 'castle-ui'
 import configer from './common/config'
 import store from './common/store'
 import './common/assets/css/Public'
+import './common/assets/js/lunbo'
 set_server(configer.HttpServer)
 // set_ws_server(configer.WSServer)
 

@@ -11,8 +11,13 @@ const router = new Router({
     routes: [
         {
             path: RouterPath.Home,
-            name:'实例',
+            name:'首页',
             component:(n:any) => require(["../components/Home.vue"],n),
+        },
+        {
+            path: RouterPath.Login,
+            name:'登录',
+            component:(n:any) => require(["../components/Login.vue"],n)
         }
         //  {
         //     path: RouterPath.Login,

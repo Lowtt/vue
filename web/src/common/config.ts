@@ -7,7 +7,8 @@ const config =  {
 }
 export enum RouterPath {
     //这里是子域名
-    Home = '/'
+    Home = '/',
+    Login = '/login'
     // UsersList = '/UsersList',
     // ScoreDetailList = '/ScoreDetailList',
     // IncomeDetailList = '/IncomeDetailList',

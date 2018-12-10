@@ -91,7 +91,7 @@
             </div>
             <div class="layui-row end">
                 <div class="layui-col-xs12">
-                    <p>&copy;2009.All rights reserved.蜀ICP备00000000号&nbsp;&nbsp;&nbsp;
+                    <p>&copy;2009.All rights reserved.<a href="http://www.miibeian.gov.cn/state/outPortal/loginPortal.action;jsessionid=ZFWR1Lm75lfrvMMLrKlaf1to1Gb04pcWH24MHd7omPxADPC_PnK5!270711513" target="blank">蜀ICP备00000000号</a>&nbsp;&nbsp;&nbsp;
                         绵阳市融资担保小额贷款行业协会</p>
                 </div>
             </div>
