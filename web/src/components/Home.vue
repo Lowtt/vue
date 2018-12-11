@@ -67,10 +67,11 @@
             </div>
         </div>
         <div class="layui-row">
-            <div class="layui-col-md6 layui-col-md-offset4 member">
-                <a href="#"><img src="../common/img/h1.jpg" alt="" height="120px" width="220px"></a>
-                <a href="#"><img src="../common/img/h2.jpg" alt="" height="120px" width="220px"></a>
-                <a href="#"><img src="../common/img/h3.jpg" alt="" height="120px" width="220px"></a>
+            <div class="layui-col-xs6 layui-col-xs-offset4 member">
+                <a href="#"><img src="../common/img/h1.jpg" alt="" height="120px" width="32.5%"></a>
+                <a href="#"><img src="../common/img/h2.jpg" alt="" height="120px" width="32.5%"></a>
+                <a href="#"><img src="../common/img/h3.jpg" alt="" height="120px" width="32.5%"></a>
+                <!-- <a href="#"><img src="../common/img/h1.jpg" alt="" height="120px" width="23%"></a> -->
                 <div class="_left"><a href="#"><img src="../common/img/HomeImg/left.png" width="20px"></a></div>
                 <div class="_right"><a href="#"><img src="../common/img/HomeImg/right.png" width="20px"></a></div>
             </div>
@@ -200,8 +201,12 @@ export default class Home extends Vue{
         width: 300px;
         overflow: hidden;
     }
+    .memeber{
+        // margin-left: 50px;
+    }
     .member>a img{
-        margin:0 20px 0 10px;
+        // margin:0 20px 0 10px;
+        // margin-left: 20px;
     }
     .member ._left,.member ._right{
         width: 20px;
@@ -210,13 +215,13 @@ export default class Home extends Vue{
         top: 0;
         text-align: center;
         line-height: 120px;
-        background: rgba(0, 0, 0, .3)
+        background: rgba(0, 0, 0, .5)
     }
      .member ._left{
-        left: 10px;
+        left: 0;
     }
     .member ._right{
-        right:38px;
+        right:0;
     }
 }
 </style>

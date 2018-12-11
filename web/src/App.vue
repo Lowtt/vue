@@ -6,7 +6,7 @@
                     <div class="layui-col-xs8 welecome" style="text-align:center">欢迎登录绵阳市融资担保小额贷款行业协会网站</div>
                     <div class="layui-col-xs4 loginRegiste" style="text-align:center">
                         <i class="iconfont icon-denglu"></i>
-                        <a href="#"><span>登录|</span></a>
+                        <a href="/#/logo"><span>登录|</span></a>
                         <a href="#"><span>注册</span></a>
                     </div>
                 </div>
@@ -49,11 +49,6 @@
                     <div class="layui-col-xs6 layui-col-xs-offset4 public_topnav">
                         <ul class="layui-nav" lay-filter="">
                             <li class="layui-nav-item"><a href="#">首页</a>
-                                <dl class="layui-nav-child">
-                                    <dd><a href="">移动模块</a></dd>
-                                    <dd><a href="">后台模版</a></dd>
-                                    <dd><a href="">电商平台</a></dd>
-                                </dl>
                             </li>
                             <li class="layui-nav-item"><a href="#">关于我们</a></li>
                             <li class="layui-nav-item"><a href="#">行业动态</a></li>
